@@ -1,0 +1,16 @@
+* {
+    background-color: aqua;
+}
+h1 {
+    color: Blue;
+    text-align: center;
+    text-decoration: underline black 2px;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+p {
+    font-size: 30px;
+}
+ol {
+    font-size: 20px;
+}
